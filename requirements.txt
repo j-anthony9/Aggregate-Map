@@ -1,8 +1,6 @@
 streamlit
 folium
 pandas
-streamlit_folium
-st_folium
-matplotlib.pyplot 
-matplotlib.colors
+streamlit_folium 
+matplotlib
 
